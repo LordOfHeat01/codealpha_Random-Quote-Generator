@@ -1,0 +1,1902 @@
+[
+    {
+        "text": "Love all, trust a few, do wrong to none.",
+        "author": "William Shakespeare",
+        "category": "Love"
+    },
+    {
+        "text": "The best thing to hold onto in life is each other.",
+        "author": "Audrey Hepburn",
+        "category": "Love"
+    },
+    {
+        "text": "Being deeply loved by someone gives you strength, while loving someone deeply gives you courage.",
+        "author": "Lao Tzu",
+        "category": "Love"
+    },
+    {
+        "text": "The only way to do great work is to love what you do.",
+        "author": "Steve Jobs",
+        "category": "Inspiration"
+    },
+    {
+        "text": "Life is what happens when you're busy making other plans.",
+        "author": "John Lennon",
+        "category": "Life"
+    },
+    {
+        "text": "In the end, we will remember not the words of our enemies, but the silence of our friends.",
+        "author": "Martin Luther King Jr.",
+        "category": "Friendship"
+    },
+    {
+        "text": "The greatest glory in living lies not in never falling, but in rising every time we fall.",
+        "author": "Nelson Mandela",
+        "category": "Inspiration"
+    },
+    {
+        "text": "Do not go where the path may lead, go instead where there is no path and leave a trail.",
+        "author": "Ralph Waldo Emerson",
+        "category": "Motivation"
+    },
+    {
+        "text": "To be yourself in a world that is constantly trying to make you something else is the greatest accomplishment.",
+        "author": "Ralph Waldo Emerson",
+        "category": "Individuality"
+    },
+    {
+        "text": "The only thing we have to fear is fear itself.",
+        "author": "Franklin D. Roosevelt",
+        "category": "Courage"
+    },
+    {
+        "text": "Success is not final, failure is not fatal: it is the courage to continue that counts.",
+        "author": "Winston Churchill",
+        "category": "Success"
+    },
+    {
+        "text": "The unexamined life is not worth living.",
+        "author": "Socrates",
+        "category": "Philosophy"
+    },
+    {
+        "text": "Happiness is not something ready made. It comes from your own actions.",
+        "author": "Dalai Lama",
+        "category": "Happiness"
+    },
+    {
+        "text": "You must be the change you wish to see in the world.",
+        "author": "Mahatma Gandhi",
+        "category": "Change"
+    },
+    {
+        "text": "The only limit to our realization of tomorrow will be our doubts of today.",
+        "author": "Franklin D. Roosevelt",
+        "category": "Motivation"
+    },
+    {
+        "text": "It is better to be hated for what you are than to be loved for what you are not.",
+        "author": "André Gide",
+        "category": "Authenticity"
+    },
+    {
+        "text": "The journey of a thousand miles begins with a single step.",
+        "author": "Lao Tzu",
+        "category": "Motivation"
+    },
+    {
+        "text": "What lies behind us and what lies before us are tiny matters compared to what lies within us.",
+        "author": "Ralph Waldo Emerson",
+        "category": "Inspiration"
+    },
+    {
+        "text": "I have not failed. I've just found 10,000 ways that won't work.",
+        "author": "Thomas Edison",
+        "category": "Failure"
+    },
+    {
+        "text": "The best revenge is to be unlike him who performed the injury.",
+        "author": "Marcus Aurelius",
+        "category": "Wisdom"
+    },
+    {
+        "text": "We are what we repeatedly do. Excellence, then, is not an act, but a habit.",
+        "author": "Aristotle",
+        "category": "Excellence"
+    },
+    {
+        "text": "To love and be loved is to feel the sun from both sides.",
+        "author": "David Viscott",
+        "category": "Love"
+    },
+    {
+        "text": "The mind is everything. What you think you become.",
+        "author": "Buddha",
+        "category": "Mindset"
+    },
+    {
+        "text": "Do what you can, with what you have, where you are.",
+        "author": "Theodore Roosevelt",
+        "category": "Action"
+    },
+    {
+        "text": "The future belongs to those who believe in the beauty of their dreams.",
+        "author": "Eleanor Roosevelt",
+        "category": "Dreams"
+    },
+    {
+        "text": "Life is either a daring adventure or nothing at all.",
+        "author": "Helen Keller",
+        "category": "Life"
+    },
+    {
+        "text": "It does not matter how slowly you go as long as you do not stop.",
+        "author": "Confucius",
+        "category": "Perseverance"
+    },
+    {
+        "text": "You cannot shake hands with a clenched fist.",
+        "author": "Indira Gandhi",
+        "category": "Peace"
+    },
+    {
+        "text": "The only true wisdom is in knowing you know nothing.",
+        "author": "Socrates",
+        "category": "Wisdom"
+    },
+    {
+        "text": "What we think, we become.",
+        "author": "Buddha",
+        "category": "Mindset"
+    },
+    {
+        "text": "Keep your face always toward the sunshine—and shadows will fall behind you.",
+        "author": "Walt Whitman",
+        "category": "Optimism"
+    },
+    {
+        "text": "The greatest wealth is to live content with little.",
+        "author": "Plato",
+        "category": "Contentment"
+    },
+    {
+        "text": "The best way to predict the future is to create it.",
+        "author": "Peter Drucker",
+        "category": "Future"
+    },
+    {
+        "text": "A friend is one who knows you and loves you just the same.",
+        "author": "Elbert Hubbard",
+        "category": "Friendship"
+    },
+    {
+        "text": "If you want to lift yourself up, lift up someone else.",
+        "author": "Booker T. Washington",
+        "category": "Kindness"
+    },
+    {
+        "text": "The only person you are destined to become is the person you decide to be.",
+        "author": "Ralph Waldo Emerson",
+        "category": "Destiny"
+    },
+    {
+        "text": "It is never too late to be what you might have been.",
+        "author": "George Eliot",
+        "category": "Motivation"
+    },
+    {
+        "text": "The purpose of life is to live it, to taste experience to the utmost.",
+        "author": "Eleanor Roosevelt",
+        "category": "Life"
+    },
+    {
+        "text": "Do not let what you cannot do interfere with what you can do.",
+        "author": "John Wooden",
+        "category": "Action"
+    },
+    {
+        "text": "The way to get started is to quit talking and begin doing.",
+        "author": "Walt Disney",
+        "category": "Action"
+    },
+    {
+        "text": "You miss 100% of the shots you don’t take.",
+        "author": "Wayne Gretzky",
+        "category": "Opportunity"
+    },
+    {
+        "text": "We must let go of the life we have planned, so as to accept the one that is waiting for us.",
+        "author": "Joseph Campbell",
+        "category": "Change"
+    },
+    {
+        "text": "The only thing necessary for the triumph of evil is for good men to do nothing.",
+        "author": "Edmund Burke",
+        "category": "Responsibility"
+    },
+    {
+        "text": "Life is really simple, but we insist on making it complicated.",
+        "author": "Confucius",
+        "category": "Life"
+    },
+    {
+        "text": "The best preparation for tomorrow is doing your best today.",
+        "author": "H. Jackson Brown Jr.",
+        "category": "Effort"
+    },
+    {
+        "text": "What you do speaks so loudly that I cannot hear what you say.",
+        "author": "Ralph Waldo Emerson",
+        "category": "Action"
+    },
+    {
+        "text": "The greatest happiness is to know the source of unhappiness.",
+        "author": "Fyodor Dostoevsky",
+        "category": "Happiness"
+    },
+    {
+        "text": "To live is the rarest thing in the world. Most people exist, that is all.",
+        "author": "Oscar Wilde",
+        "category": "Life"
+    },
+    {
+        "text": "You can’t use up creativity. The more you use, the more you have.",
+        "author": "Maya Angelou",
+        "category": "Creativity"
+    },
+    {
+        "text": "No act of kindness, no matter how small, is ever wasted.",
+        "author": "Aesop",
+        "category": "Kindness"
+    },
+    {
+        "text": "The only source of knowledge is experience.",
+        "author": "Albert Einstein",
+        "category": "Knowledge"
+    },
+    {
+        "text": "A person who never made a mistake never tried anything new.",
+        "author": "Albert Einstein",
+        "category": "Failure"
+    },
+    {
+        "text": "It is not the length of life, but the depth of life.",
+        "author": "Ralph Waldo Emerson",
+        "category": "Life"
+    },
+    {
+        "text": "The greatest gift of life is friendship, and I have received it.",
+        "author": "Hubert H. Humphrey",
+        "category": "Friendship"
+    },
+    {
+        "text": "Change your thoughts and you change your world.",
+        "author": "Norman Vincent Peale",
+        "category": "Mindset"
+    },
+    {
+        "text": "Success is to be measured not so much by the position that one has reached in life as by the obstacles which he has overcome.",
+        "author": "Booker T. Washington",
+        "category": "Success"
+    },
+    {
+        "text": "The only way to have a friend is to be one.",
+        "author": "Ralph Waldo Emerson",
+        "category": "Friendship"
+    },
+    {
+        "text": "In three words I can sum up everything I've learned about life: it goes on.",
+        "author": "Robert Frost",
+        "category": "Life"
+    },
+    {
+        "text": "The best time to plant a tree was 20 years ago. The second best time is now.",
+        "author": "Chinese Proverb",
+        "category": "Action"
+    },
+    {
+        "text": "What we achieve inwardly will change outer reality.",
+        "author": "Plutarch",
+        "category": "Mindset"
+    },
+    {
+        "text": "The secret of getting ahead is getting started.",
+        "author": "Mark Twain",
+        "category": "Motivation"
+    },
+    {
+        "text": "You can never cross the ocean until you have the courage to lose sight of the shore.",
+        "author": "Christopher Columbus",
+        "category": "Courage"
+    },
+    {
+        "text": "The greatest pleasure in life is doing what people say you cannot do.",
+        "author": "Walter Bagehot",
+        "category": "Motivation"
+    },
+    {
+        "text": "We don’t see things as they are, we see them as we are.",
+        "author": "Anaïs Nin",
+        "category": "Perspective"
+    },
+    {
+        "text": "The only impossible journey is the one you never begin.",
+        "author": "Tony Robbins",
+        "category": "Motivation"
+    },
+    {
+        "text": "The best and most beautiful things in the world cannot be seen or even touched—they must be felt with the heart.",
+        "author": "Helen Keller",
+        "category": "Love"
+    },
+    {
+        "text": "If you look at what you have in life, you’ll always have more. If you look at what you don’t have, you’ll never have enough.",
+        "author": "Oprah Winfrey",
+        "category": "Gratitude"
+    },
+    {
+        "text": "The purpose of our lives is to be happy.",
+        "author": "Dalai Lama",
+        "category": "Happiness"
+    },
+    {
+        "text": "The only thing worse than being blind is having sight but no vision.",
+        "author": "Helen Keller",
+        "category": "Vision"
+    },
+    {
+        "text": "You don’t have to be great to start, but you have to start to be great.",
+        "author": "Zig Ziglar",
+        "category": "Motivation"
+    },
+    {
+        "text": "It is during our darkest moments that we must focus to see the light.",
+        "author": "Aristotle",
+        "category": "Hope"
+    },
+    {
+        "text": "The greatest discovery of all time is that a person can change his future by merely changing his attitude.",
+        "author": "Oprah Winfrey",
+        "category": "Mindset"
+    },
+    {
+        "text": "Don’t watch the clock; do what it does. Keep going.",
+        "author": "Sam Levenson",
+        "category": "Perseverance"
+    },
+    {
+        "text": "What you get by achieving your goals is not as important as what you become by achieving your goals.",
+        "author": "Zig Ziglar",
+        "category": "Growth"
+    },
+    {
+        "text": "The best way out is always through.",
+        "author": "Robert Frost",
+        "category": "Perseverance"
+    },
+    {
+        "text": "Life is not about finding yourself. Life is about creating yourself.",
+        "author": "George Bernard Shaw",
+        "category": "Self-Discovery"
+    },
+    {
+        "text": "The only place where success comes before work is in the dictionary.",
+        "author": "Vidal Sassoon",
+        "category": "Work"
+    },
+    {
+        "text": "To handle yourself, use your head; to handle others, use your heart.",
+        "author": "Eleanor Roosevelt",
+        "category": "Leadership"
+    },
+    {
+        "text": "The only way to discover the limits of the possible is to go beyond them into the impossible.",
+        "author": "Arthur C. Clarke",
+        "category": "Innovation"
+    },
+    {
+        "text": "You are never too old to set another goal or to dream a new dream.",
+        "author": "C.S. Lewis",
+        "category": "Dreams"
+    },
+    {
+        "text": "The greatest enemy of knowledge is not ignorance, it is the illusion of knowledge.",
+        "author": "Stephen Hawking",
+        "category": "Knowledge"
+    },
+    {
+        "text": "The only thing that stands between you and your dream is the will to try and the belief that it is actually possible.",
+        "author": "Joel Brown",
+        "category": "Dreams"
+    },
+    {
+        "text": "If you don’t stand for something, you will fall for anything.",
+        "author": "Malcolm X",
+        "category": "Belief"
+    },
+    {
+        "text": "The best dreams happen when you’re awake.",
+        "author": "Cherie Gilderbloom",
+        "category": "Dreams"
+    },
+    {
+        "text": "You can’t go back and change the beginning, but you can start where you are and change the ending.",
+        "author": "C.S. Lewis",
+        "category": "Change"
+    },
+    {
+        "text": "Do not wait to strike till the iron is hot; but make it hot by striking.",
+        "author": "William Butler Yeats",
+        "category": "Action"
+    },
+    {
+        "text": "The only thing that overcomes hard luck is hard work.",
+        "author": "Harry Golden",
+        "category": "Work"
+    },
+    {
+        "text": "The greatest risk is the risk of riskless living.",
+        "author": "Stephen Covey",
+        "category": "Risk"
+    },
+    {
+        "text": "We are all in the gutter, but some of us are looking at the stars.",
+        "author": "Oscar Wilde",
+        "category": "Hope"
+    },
+    {
+        "text": "The best way to find yourself is to lose yourself in the service of others.",
+        "author": "Mahatma Gandhi",
+        "category": "Service"
+    },
+    {
+        "text": "The only real mistake is the one from which we learn nothing.",
+        "author": "Henry Ford",
+        "category": "Failure"
+    },
+    {
+        "text": "The greatest good you can do for another is not just to share your riches but to reveal to him his own.",
+        "author": "Benjamin Disraeli",
+        "category": "Kindness"
+    },
+    {
+        "text": "Love is not only something you feel, it is something you do.",
+        "author": "David Wilkerson",
+        "category": "Love"
+    },
+    {
+        "text": "The only way to achieve the impossible is to believe it is possible.",
+        "author": "Charles Kingsleigh",
+        "category": "Belief"
+    },
+    {
+        "text": "Life is short, and it is up to you to make it sweet.",
+        "author": "Sarah Louise Delany",
+        "category": "Life"
+    },
+    {
+        "text": "The greatest obstacle to discovery is not ignorance—it is the illusion of knowledge.",
+        "author": "Daniel J. Boorstin",
+        "category": "Knowledge"
+    },
+    {
+        "text": "Happiness is when what you think, what you say, and what you do are in harmony.",
+        "author": "Mahatma Gandhi",
+        "category": "Happiness"
+    },
+    {
+        "text": "The only thing that interferes with my learning is my education.",
+        "author": "Albert Einstein",
+        "category": "Education"
+    },
+    {
+        "text": "You must do the thing you think you cannot do.",
+        "author": "Eleanor Roosevelt",
+        "category": "Courage"
+    },
+    {
+        "text": "The true sign of intelligence is not knowledge but imagination.",
+        "author": "Albert Einstein",
+        "category": "Imagination"
+    },
+    {
+        "text": "The greatest mistake you can make in life is to be continually fearing you will make one.",
+        "author": "Elbert Hubbard",
+        "category": "Fear"
+    },
+    {
+        "text": "The best way to cheer yourself up is to try to cheer somebody else up.",
+        "author": "Mark Twain",
+        "category": "Kindness"
+    },
+    {
+        "text": "The only wealth which you will keep forever is the wealth you have given away.",
+        "author": "Marcus Aurelius",
+        "category": "Generosity"
+    },
+    {
+        "text": "The greatest use of life is to spend it for something that will outlast it.",
+        "author": "William James",
+        "category": "Purpose"
+    },
+    {
+        "text": "The only limit to our realization of tomorrow is our doubts of today.",
+        "author": "Franklin D. Roosevelt",
+        "category": "Motivation"
+    },
+    {
+        "text": "You don’t choose your family. They are God’s gift to you, as you are to them.",
+        "author": "Desmond Tutu",
+        "category": "Family"
+    },
+    {
+        "text": "The only way to make sense out of change is to plunge into it, move with it, and join the dance.",
+        "author": "Alan Watts",
+        "category": "Change"
+    },
+    {
+        "text": "The greatest gift you can give someone is your time, because when you give your time, you are giving a portion of your life that you will never get back.",
+        "author": "Unknown",
+        "category": "Kindness"
+    },
+    {
+        "text": "The only thing that you absolutely have to know is the location of the library.",
+        "author": "Albert Einstein",
+        "category": "Knowledge"
+    },
+    {
+        "text": "The best way to destroy an enemy is to make him a friend.",
+        "author": "Abraham Lincoln",
+        "category": "Friendship"
+    },
+    {
+        "text": "The only person who is educated is the one who has learned how to learn and change.",
+        "author": "Carl Rogers",
+        "category": "Education"
+    },
+    {
+        "text": "The greatest weapon against stress is our ability to choose one thought over another.",
+        "author": "William James",
+        "category": "Mindset"
+    },
+    {
+        "text": "The only thing more expensive than education is ignorance.",
+        "author": "Benjamin Franklin",
+        "category": "Education"
+    },
+    {
+        "text": "The greatest thing in the world is to know how to belong to oneself.",
+        "author": "Michel de Montaigne",
+        "category": "Self-Discovery"
+    },
+    {
+        "text": "The only way to find true happiness is to risk being completely cut open.",
+        "author": "Chuck Palahniuk",
+        "category": "Happiness"
+    },
+    {
+        "text": "The greatest pleasure of life is love.",
+        "author": "Euripides",
+        "category": "Love"
+    },
+    {
+        "text": "The only thing we never get enough of is love; and the only thing we never give enough of is love.",
+        "author": "Henry Miller",
+        "category": "Love"
+    },
+    {
+        "text": "The greatest healing therapy is friendship and love.",
+        "author": "Hubert H. Humphrey",
+        "category": "Friendship"
+    },
+    {
+        "text": "The only way to have a good day is to start it with a positive attitude.",
+        "author": "Unknown",
+        "category": "Mindset"
+    },
+    {
+        "text": "The greatest danger for most of us is not that our aim is too high and we miss it, but that it is too low and we reach it.",
+        "author": "Michelangelo",
+        "category": "Ambition"
+    },
+    {
+        "text": "The only limit to our realization of tomorrow is our doubts of today.",
+        "author": "Franklin D. Roosevelt",
+        "category": "Motivation"
+    },
+    {
+        "text": "The greatest freedom is to be free of our own mind.",
+        "author": "Osho",
+        "category": "Freedom"
+    },
+    {
+        "text": "The only thing that makes life possible is permanent, intolerable uncertainty: not knowing what comes next.",
+        "author": "Ursula K. Le Guin",
+        "category": "Life"
+    },
+    {
+        "text": "The greatest discovery of my generation is that a human being can alter his life by altering his attitudes.",
+        "author": "William James",
+        "category": "Mindset"
+    },
+    {
+        "text": "The only thing that makes life worth living is the possibility of experiencing now and then a perfect moment.",
+        "author": "Osho",
+        "category": "Life"
+    },
+    {
+        "text": "The greatest gift you can give someone is your time, because when you give your time, you are giving a portion of your life that you will never get back.",
+        "author": "Unknown",
+        "category": "Kindness"
+    },
+    {
+        "text": "The only way to do great work is to love what you do.",
+        "author": "Steve Jobs",
+        "category": "Inspiration"
+    },
+    {
+        "text": "The greatest glory in living lies not in never falling, but in rising every time we fall.",
+        "author": "Nelson Mandela",
+        "category": "Inspiration"
+    },
+    {
+        "text": "The only thing necessary for the triumph of evil is for good men to do nothing.",
+        "author": "Edmund Burke",
+        "category": "Responsibility"
+    },
+    {
+        "text": "The greatest way to live with honor in this world is to be what we pretend to be.",
+        "author": "Socrates",
+        "category": "Authenticity"
+    },
+    {
+        "text": "The only thing that you absolutely have to know is the location of the library.",
+        "author": "Albert Einstein",
+        "category": "Knowledge"
+    },
+    {
+        "text": "The greatest thing you’ll ever learn is just to love and be loved in return.",
+        "author": "Eden Ahbez",
+        "category": "Love"
+    },
+    {
+        "text": "The only way to make a man trustworthy is to trust him.",
+        "author": "Henry L. Stimson",
+        "category": "Trust"
+    },
+    {
+        "text": "The greatest wisdom is in simplicity. Love, respect, tolerance, sharing, gratitude, forgiveness.",
+        "author": "Unknown",
+        "category": "Wisdom"
+    },
+    {
+        "text": "The only thing we have to fear is fear itself.",
+        "author": "Franklin D. Roosevelt",
+        "category": "Courage"
+    },
+    {
+        "text": "The greatest virtue is to follow the will of heaven.",
+        "author": "Confucius",
+        "category": "Virtue"
+    },
+    {
+        "text": "The only thing that matters is that you are happy and that you make others happy.",
+        "author": "Unknown",
+        "category": "Happiness"
+    },
+    {
+        "text": "The greatest act of courage is to be and to own all of who you are—without apology, without excuses, without masks to cover the truth of who you are.",
+        "author": "Oprah Winfrey",
+        "category": "Courage"
+    },
+    {
+        "text": "The only way to find true happiness is to risk being completely cut open.",
+        "author": "Chuck Palahniuk",
+        "category": "Happiness"
+    },
+    {
+        "text": "The greatest pleasure in life is doing what people say you cannot do.",
+        "author": "Walter Bagehot",
+        "category": "Motivation"
+    },
+    {
+        "text": "The only thing that makes life worth living is the possibility of experiencing now and then a perfect moment.",
+        "author": "Osho",
+        "category": "Life"
+    },
+    {
+        "text": "The greatest gift you can give someone is your time, because when you give your time, you are giving a portion of your life that you will never get back.",
+        "author": "Unknown",
+        "category": "Kindness"
+    },
+    {
+        "text": "The only way to do great work is to love what you do.",
+        "author": "Steve Jobs",
+        "category": "Inspiration"
+    },
+    {
+        "text": "The greatest glory in living lies not in never falling, but in rising every time we fall.",
+        "author": "Nelson Mandela",
+        "category": "Inspiration"
+    },
+    {
+        "text": "The only thing necessary for the triumph of evil is for good men to do nothing.",
+        "author": "Edmund Burke",
+        "category": "Responsibility"
+    },
+    {
+        "text": "The greatest way to live with honor in this world is to be what we pretend to be.",
+        "author": "Socrates",
+        "category": "Authenticity"
+    },
+    {
+        "text": "The only thing that you absolutely have to know is the location of the library.",
+        "author": "Albert Einstein",
+        "category": "Knowledge"
+    },
+    {
+        "text": "The greatest thing you’ll ever learn is just to love and be loved in return.",
+        "author": "Eden Ahbez",
+        "category": "Love"
+    },
+    {
+        "text": "The only way to make a man trustworthy is to trust him.",
+        "author": "Henry L. Stimson",
+        "category": "Trust"
+    },
+    {
+        "text": "The greatest wisdom is in simplicity. Love, respect, tolerance, sharing, gratitude, forgiveness.",
+        "author": "Unknown",
+        "category": "Wisdom"
+    },
+    {
+        "text": "The only thing we have to fear is fear itself.",
+        "author": "Franklin D. Roosevelt",
+        "category": "Courage"
+    },
+    {
+        "text": "The greatest virtue is to follow the will of heaven.",
+        "author": "Confucius",
+        "category": "Virtue"
+    },
+    {
+        "text": "The only thing that matters is that you are happy and that you make others happy.",
+        "author": "Unknown",
+        "category": "Happiness"
+    },
+    {
+        "text": "The greatest act of courage is to be and to own all of who you are—without apology, without excuses, without masks to cover the truth of who you are.",
+        "author": "Oprah Winfrey",
+        "category": "Courage"
+    },
+    {
+        "text": "The only way to find true happiness is to risk being completely cut open.",
+        "author": "Chuck Palahniuk",
+        "category": "Happiness"
+    },
+    {
+        "text": "The greatest pleasure in life is doing what people say you cannot do.",
+        "author": "Walter Bagehot",
+        "category": "Motivation"
+    },
+    {
+        "text": "The only thing that makes life worth living is the possibility of experiencing now and then a perfect moment.",
+        "author": "Osho",
+        "category": "Life"
+    },
+    {
+        "text": "The greatest gift you can give someone is your time, because when you give your time, you are giving a portion of your life that you will never get back.",
+        "author": "Unknown",
+        "category": "Kindness"
+    },
+    {
+        "text": "The only way to do great work is to love what you do.",
+        "author": "Steve Jobs",
+        "category": "Inspiration"
+    },
+    {
+        "text": "The greatest glory in living lies not in never falling, but in rising every time we fall.",
+        "author": "Nelson Mandela",
+        "category": "Inspiration"
+    },
+    {
+        "text": "The only thing necessary for the triumph of evil is for good men to do nothing.",
+        "author": "Edmund Burke",
+        "category": "Responsibility"
+    },
+    {
+        "text": "The greatest way to live with honor in this world is to be what we pretend to be.",
+        "author": "Socrates",
+        "category": "Authenticity"
+    },
+    {
+        "text": "The only thing that you absolutely have to know is the location of the library.",
+        "author": "Albert Einstein",
+        "category": "Knowledge"
+    },
+    {
+        "text": "The greatest thing you’ll ever learn is just to love and be loved in return.",
+        "author": "Eden Ahbez",
+        "category": "Love"
+    },
+    {
+        "text": "The only way to make a man trustworthy is to trust him.",
+        "author": "Henry L. Stimson",
+        "category": "Trust"
+    },
+    {
+        "text": "The greatest wisdom is in simplicity. Love, respect, tolerance, sharing, gratitude, forgiveness.",
+        "author": "Unknown",
+        "category": "Wisdom"
+    },
+    {
+        "text": "The only thing we have to fear is fear itself.",
+        "author": "Franklin D. Roosevelt",
+        "category": "Courage"
+    },
+    {
+        "text": "The greatest virtue is to follow the will of heaven.",
+        "author": "Confucius",
+        "category": "Virtue"
+    },
+    {
+        "text": "The only thing that matters is that you are happy and that you make others happy.",
+        "author": "Unknown",
+        "category": "Happiness"
+    },
+    {
+        "text": "The greatest act of courage is to be and to own all of who you are—without apology, without excuses, without masks to cover the truth of who you are.",
+        "author": "Oprah Winfrey",
+        "category": "Courage"
+    },
+    {
+        "text": "The only way to find true happiness is to risk being completely cut open.",
+        "author": "Chuck Palahniuk",
+        "category": "Happiness"
+    },
+    {
+        "text": "The greatest pleasure in life is doing what people say you cannot do.",
+        "author": "Walter Bagehot",
+        "category": "Motivation"
+    },
+    {
+        "text": "The only thing that makes life worth living is the possibility of experiencing now and then a perfect moment.",
+        "author": "Osho",
+        "category": "Life"
+    },
+    {
+        "text": "The greatest gift you can give someone is your time, because when you give your time, you are giving a portion of your life that you will never get back.",
+        "author": "Unknown",
+        "category": "Kindness"
+    },
+    {
+        "text": "The only way to do great work is to love what you do.",
+        "author": "Steve Jobs",
+        "category": "Inspiration"
+    },
+    {
+        "text": "The greatest glory in living lies not in never falling, but in rising every time we fall.",
+        "author": "Nelson Mandela",
+        "category": "Inspiration"
+    },
+    {
+        "text": "The only thing necessary for the triumph of evil is for good men to do nothing.",
+        "author": "Edmund Burke",
+        "category": "Responsibility"
+    },
+    {
+        "text": "The greatest way to live with honor in this world is to be what we pretend to be.",
+        "author": "Socrates",
+        "category": "Authenticity"
+    },
+    {
+        "text": "The only thing that you absolutely have to know is the location of the library.",
+        "author": "Albert Einstein",
+        "category": "Knowledge"
+    },
+    {
+        "text": "The greatest thing you’ll ever learn is just to love and be loved in return.",
+        "author": "Eden Ahbez",
+        "category": "Love"
+    },
+    {
+        "text": "The only way to make a man trustworthy is to trust him.",
+        "author": "Henry L. Stimson",
+        "category": "Trust"
+    },
+    {
+        "text": "The greatest wisdom is in simplicity. Love, respect, tolerance, sharing, gratitude, forgiveness.",
+        "author": "Unknown",
+        "category": "Wisdom"
+    },
+    {
+        "text": "The only thing we have to fear is fear itself.",
+        "author": "Franklin D. Roosevelt",
+        "category": "Courage"
+    },
+    {
+        "text": "The greatest virtue is to follow the will of heaven.",
+        "author": "Confucius",
+        "category": "Virtue"
+    },
+    {
+        "text": "The only thing that matters is that you are happy and that you make others happy.",
+        "author": "Unknown",
+        "category": "Happiness"
+    },
+    {
+        "text": "The greatest act of courage is to be and to own all of who you are—without apology, without excuses, without masks to cover the truth of who you are.",
+        "author": "Oprah Winfrey",
+        "category": "Courage"
+    },
+    {
+        "text": "The only way to find true happiness is to risk being completely cut open.",
+        "author": "Chuck Palahniuk",
+        "category": "Happiness"
+    },
+    {
+        "text": "The greatest pleasure in life is doing what people say you cannot do.",
+        "author": "Walter Bagehot",
+        "category": "Motivation"
+    },
+    {
+        "text": "The only thing that makes life worth living is the possibility of experiencing now and then a perfect moment.",
+        "author": "Osho",
+        "category": "Life"
+    },
+    {
+        "text": "The greatest gift you can give someone is your time, because when you give your time, you are giving a portion of your life that you will never get back.",
+        "author": "Unknown",
+        "category": "Kindness"
+    },
+    {
+        "text": "The only way to do great work is to love what you do.",
+        "author": "Steve Jobs",
+        "category": "Inspiration"
+    },
+    {
+        "text": "The greatest glory in living lies not in never falling, but in rising every time we fall.",
+        "author": "Nelson Mandela",
+        "category": "Inspiration"
+    },
+    {
+        "text": "The only thing necessary for the triumph of evil is for good men to do nothing.",
+        "author": "Edmund Burke",
+        "category": "Responsibility"
+    },
+    {
+        "text": "The greatest way to live with honor in this world is to be what we pretend to be.",
+        "author": "Socrates",
+        "category": "Authenticity"
+    },
+    {
+        "text": "The only thing that you absolutely have to know is the location of the library.",
+        "author": "Albert Einstein",
+        "category": "Knowledge"
+    },
+    {
+        "text": "The greatest thing you’ll ever learn is just to love and be loved in return.",
+        "author": "Eden Ahbez",
+        "category": "Love"
+    },
+    {
+        "text": "The only way to make a man trustworthy is to trust him.",
+        "author": "Henry L. Stimson",
+        "category": "Trust"
+    },
+    {
+        "text": "The greatest wisdom is in simplicity. Love, respect, tolerance, sharing, gratitude, forgiveness.",
+        "author": "Unknown",
+        "category": "Wisdom"
+    },
+    {
+        "text": "The only thing we have to fear is fear itself.",
+        "author": "Franklin D. Roosevelt",
+        "category": "Courage"
+    },
+    {
+        "text": "The greatest virtue is to follow the will of heaven.",
+        "author": "Confucius",
+        "category": "Virtue"
+    },
+    {
+        "text": "The only thing that matters is that you are happy and that you make others happy.",
+        "author": "Unknown",
+        "category": "Happiness"
+    },
+    {
+        "text": "The greatest act of courage is to be and to own all of who you are—without apology, without excuses, without masks to cover the truth of who you are.",
+        "author": "Oprah Winfrey",
+        "category": "Courage"
+    },
+    {
+        "text": "The only way to find true happiness is to risk being completely cut open.",
+        "author": "Chuck Palahniuk",
+        "category": "Happiness"
+    },
+    {
+        "text": "The greatest pleasure in life is doing what people say you cannot do.",
+        "author": "Walter Bagehot",
+        "category": "Motivation"
+    },
+    {
+        "text": "The only thing that makes life worth living is the possibility of experiencing now and then a perfect moment.",
+        "author": "Osho",
+        "category": "Life"
+    },
+    {
+        "text": "The greatest gift you can give someone is your time, because when you give your time, you are giving a portion of your life that you will never get back.",
+        "author": "Unknown",
+        "category": "Kindness"
+    },
+    {
+        "text": "The only way to do great work is to love what you do.",
+        "author": "Steve Jobs",
+        "category": "Inspiration"
+    },
+    {
+        "text": "The greatest glory in living lies not in never falling, but in rising every time we fall.",
+        "author": "Nelson Mandela",
+        "category": "Inspiration"
+    },
+    {
+        "text": "The only thing necessary for the triumph of evil is for good men to do nothing.",
+        "author": "Edmund Burke",
+        "category": "Responsibility"
+    },
+    {
+        "text": "The greatest way to live with honor in this world is to be what we pretend to be.",
+        "author": "Socrates",
+        "category": "Authenticity"
+    },
+    {
+        "text": "The only thing that you absolutely have to know is the location of the library.",
+        "author": "Albert Einstein",
+        "category": "Knowledge"
+    },
+    {
+        "text": "The greatest thing you’ll ever learn is just to love and be loved in return.",
+        "author": "Eden Ahbez",
+        "category": "Love"
+    },
+    {
+        "text": "The only way to make a man trustworthy is to trust him.",
+        "author": "Henry L. Stimson",
+        "category": "Trust"
+    },
+    {
+        "text": "The greatest wisdom is in simplicity. Love, respect, tolerance, sharing, gratitude, forgiveness.",
+        "author": "Unknown",
+        "category": "Wisdom"
+    },
+    {
+        "text": "The only thing we have to fear is fear itself.",
+        "author": "Franklin D. Roosevelt",
+        "category": "Courage"
+    },
+    {
+        "text": "The greatest virtue is to follow the will of heaven.",
+        "author": "Confucius",
+        "category": "Virtue"
+    },
+    {
+        "text": "The only thing that matters is that you are happy and that you make others happy.",
+        "author": "Unknown",
+        "category": "Happiness"
+    },
+    {
+        "text": "The greatest act of courage is to be and to own all of who you are—without apology, without excuses, without masks to cover the truth of who you are.",
+        "author": "Oprah Winfrey",
+        "category": "Courage"
+    },
+    {
+        "text": "The only way to find true happiness is to risk being completely cut open.",
+        "author": "Chuck Palahniuk",
+        "category": "Happiness"
+    },
+    {
+        "text": "The greatest pleasure in life is doing what people say you cannot do.",
+        "author": "Walter Bagehot",
+        "category": "Motivation"
+    },
+    {
+        "text": "The only thing that makes life worth living is the possibility of experiencing now and then a perfect moment.",
+        "author": "Osho",
+        "category": "Life"
+    },
+    {
+        "text": "The greatest gift you can give someone is your time, because when you give your time, you are giving a portion of your life that you will never get back.",
+        "author": "Unknown",
+        "category": "Kindness"
+    },
+    {
+        "text": "The only way to do great work is to love what you do.",
+        "author": "Steve Jobs",
+        "category": "Inspiration"
+    },
+    {
+        "text": "The greatest glory in living lies not in never falling, but in rising every time we fall.",
+        "author": "Nelson Mandela",
+        "category": "Inspiration"
+    },
+    {
+        "text": "The only thing necessary for the triumph of evil is for good men to do nothing.",
+        "author": "Edmund Burke",
+        "category": "Responsibility"
+    },
+    {
+        "text": "The greatest way to live with honor in this world is to be what we pretend to be.",
+        "author": "Socrates",
+        "category": "Authenticity"
+    },
+    {
+        "text": "The only thing that you absolutely have to know is the location of the library.",
+        "author": "Albert Einstein",
+        "category": "Knowledge"
+    },
+    {
+        "text": "The greatest thing you’ll ever learn is just to love and be loved in return.",
+        "author": "Eden Ahbez",
+        "category": "Love"
+    },
+    {
+        "text": "The only way to make a man trustworthy is to trust him.",
+        "author": "Henry L. Stimson",
+        "category": "Trust"
+    },
+    {
+        "text": "The greatest wisdom is in simplicity. Love, respect, tolerance, sharing, gratitude, forgiveness.",
+        "author": "Unknown",
+        "category": "Wisdom"
+    },
+    {
+        "text": "The only thing we have to fear is fear itself.",
+        "author": "Franklin D. Roosevelt",
+        "category": "Courage"
+    },
+    {
+        "text": "The greatest virtue is to follow the will of heaven.",
+        "author": "Confucius",
+        "category": "Virtue"
+    },
+    {
+        "text": "The only thing that matters is that you are happy and that you make others happy.",
+        "author": "Unknown",
+        "category": "Happiness"
+    },
+    {
+        "text": "The greatest act of courage is to be and to own all of who you are—without apology, without excuses, without masks to cover the truth of who you are.",
+        "author": "Oprah Winfrey",
+        "category": "Courage"
+    },
+    {
+        "text": "The only way to find true happiness is to risk being completely cut open.",
+        "author": "Chuck Palahniuk",
+        "category": "Happiness"
+    },
+    {
+        "text": "The greatest pleasure in life is doing what people say you cannot do.",
+        "author": "Walter Bagehot",
+        "category": "Motivation"
+    },
+    {
+        "text": "The only thing that makes life worth living is the possibility of experiencing now and then a perfect moment.",
+        "author": "Osho",
+        "category": "Life"
+    },
+    {
+        "text": "The greatest gift you can give someone is your time, because when you give your time, you are giving a portion of your life that you will never get back.",
+        "author": "Unknown",
+        "category": "Kindness"
+    },
+    {
+        "text": "The only way to do great work is to love what you do.",
+        "author": "Steve Jobs",
+        "category": "Inspiration"
+    },
+    {
+        "text": "The greatest glory in living lies not in never falling, but in rising every time we fall.",
+        "author": "Nelson Mandela",
+        "category": "Inspiration"
+    },
+    {
+        "text": "The only thing necessary for the triumph of evil is for good men to do nothing.",
+        "author": "Edmund Burke",
+        "category": "Responsibility"
+    },
+    {
+        "text": "The greatest way to live with honor in this world is to be what we pretend to be.",
+        "author": "Socrates",
+        "category": "Authenticity"
+    },
+    {
+        "text": "The only thing that you absolutely have to know is the location of the library.",
+        "author": "Albert Einstein",
+        "category": "Knowledge"
+    },
+    {
+        "text": "The greatest thing you’ll ever learn is just to love and be loved in return.",
+        "author": "Eden Ahbez",
+        "category": "Love"
+    },
+    {
+        "text": "The only way to make a man trustworthy is to trust him.",
+        "author": "Henry L. Stimson",
+        "category": "Trust"
+    },
+    {
+        "text": "The greatest wisdom is in simplicity. Love, respect, tolerance, sharing, gratitude, forgiveness.",
+        "author": "Unknown",
+        "category": "Wisdom"
+    },
+    {
+        "text": "The only thing we have to fear is fear itself.",
+        "author": "Franklin D. Roosevelt",
+        "category": "Courage"
+    },
+    {
+        "text": "The greatest virtue is to follow the will of heaven.",
+        "author": "Confucius",
+        "category": "Virtue"
+    },
+    {
+        "text": "The only thing that matters is that you are happy and that you make others happy.",
+        "author": "Unknown",
+        "category": "Happiness"
+    },
+    {
+        "text": "The greatest act of courage is to be and to own all of who you are—without apology, without excuses, without masks to cover the truth of who you are.",
+        "author": "Oprah Winfrey",
+        "category": "Courage"
+    },
+    {
+        "text": "The only way to find true happiness is to risk being completely cut open.",
+        "author": "Chuck Palahniuk",
+        "category": "Happiness"
+    },
+    {
+        "text": "The greatest pleasure in life is doing what people say you cannot do.",
+        "author": "Walter Bagehot",
+        "category": "Motivation"
+    },
+    {
+        "text": "The only thing that makes life worth living is the possibility of experiencing now and then a perfect moment.",
+        "author": "Osho",
+        "category": "Life"
+    },
+    {
+        "text": "The greatest gift you can give someone is your time, because when you give your time, you are giving a portion of your life that you will never get back.",
+        "author": "Unknown",
+        "category": "Kindness"
+    },
+    {
+        "text": "The only way to do great work is to love what you do.",
+        "author": "Steve Jobs",
+        "category": "Inspiration"
+    },
+    {
+        "text": "The greatest glory in living lies not in never falling, but in rising every time we fall.",
+        "author": "Nelson Mandela",
+        "category": "Inspiration"
+    },
+    {
+        "text": "The only thing necessary for the triumph of evil is for good men to do nothing.",
+        "author": "Edmund Burke",
+        "category": "Responsibility"
+    },
+    {
+        "text": "The greatest way to live with honor in this world is to be what we pretend to be.",
+        "author": "Socrates",
+        "category": "Authenticity"
+    },
+    {
+        "text": "The only thing that you absolutely have to know is the location of the library.",
+        "author": "Albert Einstein",
+        "category": "Knowledge"
+    },
+    {
+        "text": "The greatest thing you’ll ever learn is just to love and be loved in return.",
+        "author": "Eden Ahbez",
+        "category": "Love"
+    },
+    {
+        "text": "The only way to make a man trustworthy is to trust him.",
+        "author": "Henry L. Stimson",
+        "category": "Trust"
+    },
+    {
+        "text": "The greatest wisdom is in simplicity. Love, respect, tolerance, sharing, gratitude, forgiveness.",
+        "author": "Unknown",
+        "category": "Wisdom"
+    },
+    {
+        "text": "The only thing we have to fear is fear itself.",
+        "author": "Franklin D. Roosevelt",
+        "category": "Courage"
+    },
+    {
+        "text": "The greatest virtue is to follow the will of heaven.",
+        "author": "Confucius",
+        "category": "Virtue"
+    },
+    {
+        "text": "The only thing that matters is that you are happy and that you make others happy.",
+        "author": "Unknown",
+        "category": "Happiness"
+    },
+    {
+        "text": "The greatest act of courage is to be and to own all of who you are—without apology, without excuses, without masks to cover the truth of who you are.",
+        "author": "Oprah Winfrey",
+        "category": "Courage"
+    },
+    {
+        "text": "The only way to find true happiness is to risk being completely cut open.",
+        "author": "Chuck Palahniuk",
+        "category": "Happiness"
+    },
+    {
+        "text": "The greatest pleasure in life is doing what people say you cannot do.",
+        "author": "Walter Bagehot",
+        "category": "Motivation"
+    },
+    {
+        "text": "The only thing that makes life worth living is the possibility of experiencing now and then a perfect moment.",
+        "author": "Osho",
+        "category": "Life"
+    },
+    {
+        "text": "The greatest gift you can give someone is your time, because when you give your time, you are giving a portion of your life that you will never get back.",
+        "author": "Unknown",
+        "category": "Kindness"
+    },
+    {
+        "text": "The only way to do great work is to love what you do.",
+        "author": "Steve Jobs",
+        "category": "Inspiration"
+    },
+    {
+        "text": "The greatest glory in living lies not in never falling, but in rising every time we fall.",
+        "author": "Nelson Mandela",
+        "category": "Inspiration"
+    },
+    {
+        "text": "The only thing necessary for the triumph of evil is for good men to do nothing.",
+        "author": "Edmund Burke",
+        "category": "Responsibility"
+    },
+    {
+        "text": "The greatest way to live with honor in this world is to be what we pretend to be.",
+        "author": "Socrates",
+        "category": "Authenticity"
+    },
+    {
+        "text": "The only thing that you absolutely have to know is the location of the library.",
+        "author": "Albert Einstein",
+        "category": "Knowledge"
+    },
+    {
+        "text": "The greatest thing you’ll ever learn is just to love and be loved in return.",
+        "author": "Eden Ahbez",
+        "category": "Love"
+    },
+    {
+        "text": "The only way to make a man trustworthy is to trust him.",
+        "author": "Henry L. Stimson",
+        "category": "Trust"
+    },
+    {
+        "text": "The greatest wisdom is in simplicity. Love, respect, tolerance, sharing, gratitude, forgiveness.",
+        "author": "Unknown",
+        "category": "Wisdom"
+    },
+    {
+        "text": "The only thing we have to fear is fear itself.",
+        "author": "Franklin D. Roosevelt",
+        "category": "Courage"
+    },
+    {
+        "text": "The greatest virtue is to follow the will of heaven.",
+        "author": "Confucius",
+        "category": "Virtue"
+    },
+    {
+        "text": "The only thing that matters is that you are happy and that you make others happy.",
+        "author": "Unknown",
+        "category": "Happiness"
+    },
+    {
+        "text": "The greatest act of courage is to be and to own all of who you are—without apology, without excuses, without masks to cover the truth of who you are.",
+        "author": "Oprah Winfrey",
+        "category": "Courage"
+    },
+    {
+        "text": "The only way to find true happiness is to risk being completely cut open.",
+        "author": "Chuck Palahniuk",
+        "category": "Happiness"
+    },
+    {
+        "text": "The greatest pleasure in life is doing what people say you cannot do.",
+        "author": "Walter Bagehot",
+        "category": "Motivation"
+    },
+    {
+        "text": "The only thing that makes life worth living is the possibility of experiencing now and then a perfect moment.",
+        "author": "Osho",
+        "category": "Life"
+    },
+    {
+        "text": "The greatest gift you can give someone is your time, because when you give your time, you are giving a portion of your life that you will never get back.",
+        "author": "Unknown",
+        "category": "Kindness"
+    },
+    {
+        "text": "The only way to do great work is to love what you do.",
+        "author": "Steve Jobs",
+        "category": "Inspiration"
+    },
+    {
+        "text": "The greatest glory in living lies not in never falling, but in rising every time we fall.",
+        "author": "Nelson Mandela",
+        "category": "Inspiration"
+    },
+    {
+        "text": "The only thing necessary for the triumph of evil is for good men to do nothing.",
+        "author": "Edmund Burke",
+        "category": "Responsibility"
+    },
+    {
+        "text": "The greatest way to live with honor in this world is to be what we pretend to be.",
+        "author": "Socrates",
+        "category": "Authenticity"
+    },
+    {
+        "text": "The only thing that you absolutely have to know is the location of the library.",
+        "author": "Albert Einstein",
+        "category": "Knowledge"
+    },
+    {
+        "text": "The greatest thing you’ll ever learn is just to love and be loved in return.",
+        "author": "Eden Ahbez",
+        "category": "Love"
+    },
+    {
+        "text": "The only way to make a man trustworthy is to trust him.",
+        "author": "Henry L. Stimson",
+        "category": "Trust"
+    },
+    {
+        "text": "The greatest wisdom is in simplicity. Love, respect, tolerance, sharing, gratitude, forgiveness.",
+        "author": "Unknown",
+        "category": "Wisdom"
+    },
+    {
+        "text": "The only thing we have to fear is fear itself.",
+        "author": "Franklin D. Roosevelt",
+        "category": "Courage"
+    },
+    {
+        "text": "The greatest virtue is to follow the will of heaven.",
+        "author": "Confucius",
+        "category": "Virtue"
+    },
+    {
+        "text": "The only thing that matters is that you are happy and that you make others happy.",
+        "author": "Unknown",
+        "category": "Happiness"
+    },
+    {
+        "text": "The greatest act of courage is to be and to own all of who you are—without apology, without excuses, without masks to cover the truth of who you are.",
+        "author": "Oprah Winfrey",
+        "category": "Courage"
+    },
+    {
+        "text": "The only way to find true happiness is to risk being completely cut open.",
+        "author": "Chuck Palahniuk",
+        "category": "Happiness"
+    },
+    {
+        "text": "The greatest pleasure in life is doing what people say you cannot do.",
+        "author": "Walter Bagehot",
+        "category": "Motivation"
+    },
+    {
+        "text": "The only thing that makes life worth living is the possibility of experiencing now and then a perfect moment.",
+        "author": "Osho",
+        "category": "Life"
+    },
+    {
+        "text": "The greatest gift you can give someone is your time, because when you give your time, you are giving a portion of your life that you will never get back.",
+        "author": "Unknown",
+        "category": "Kindness"
+    },
+    {
+        "text": "The only way to do great work is to love what you do.",
+        "author": "Steve Jobs",
+        "category": "Inspiration"
+    },
+    {
+        "text": "The greatest glory in living lies not in never falling, but in rising every time we fall.",
+        "author": "Nelson Mandela",
+        "category": "Inspiration"
+    },
+    {
+        "text": "The only thing necessary for the triumph of evil is for good men to do nothing.",
+        "author": "Edmund Burke",
+        "category": "Responsibility"
+    },
+    {
+        "text": "The greatest way to live with honor in this world is to be what we pretend to be.",
+        "author": "Socrates",
+        "category": "Authenticity"
+    },
+    {
+        "text": "The only thing that you absolutely have to know is the location of the library.",
+        "author": "Albert Einstein",
+        "category": "Knowledge"
+    },
+    {
+        "text": "The greatest thing you’ll ever learn is just to love and be loved in return.",
+        "author": "Eden Ahbez",
+        "category": "Love"
+    },
+    {
+        "text": "The only way to make a man trustworthy is to trust him.",
+        "author": "Henry L. Stimson",
+        "category": "Trust"
+    },
+    {
+        "text": "The greatest wisdom is in simplicity. Love, respect, tolerance, sharing, gratitude, forgiveness.",
+        "author": "Unknown",
+        "category": "Wisdom"
+    },
+    {
+        "text": "The only thing we have to fear is fear itself.",
+        "author": "Franklin D. Roosevelt",
+        "category": "Courage"
+    },
+    {
+        "text": "The greatest virtue is to follow the will of heaven.",
+        "author": "Confucius",
+        "category": "Virtue"
+    },
+    {
+        "text": "The only thing that matters is that you are happy and that you make others happy.",
+        "author": "Unknown",
+        "category": "Happiness"
+    },
+    {
+        "text": "The greatest act of courage is to be and to own all of who you are—without apology, without excuses, without masks to cover the truth of who you are.",
+        "author": "Oprah Winfrey",
+        "category": "Courage"
+    },
+    {
+        "text": "The only way to find true happiness is to risk being completely cut open.",
+        "author": "Chuck Palahniuk",
+        "category": "Happiness"
+    },
+    {
+        "text": "The greatest pleasure in life is doing what people say you cannot do.",
+        "author": "Walter Bagehot",
+        "category": "Motivation"
+    },
+    {
+        "text": "The only thing that makes life worth living is the possibility of experiencing now and then a perfect moment.",
+        "author": "Osho",
+        "category": "Life"
+    },
+    {
+        "text": "The greatest gift you can give someone is your time, because when you give your time, you are giving a portion of your life that you will never get back.",
+        "author": "Unknown",
+        "category": "Kindness"
+    },
+    {
+        "text": "The only way to do great work is to love what you do.",
+        "author": "Steve Jobs",
+        "category": "Inspiration"
+    },
+    {
+        "text": "The greatest glory in living lies not in never falling, but in rising every time we fall.",
+        "author": "Nelson Mandela",
+        "category": "Inspiration"
+    },
+    {
+        "text": "The only thing necessary for the triumph of evil is for good men to do nothing.",
+        "author": "Edmund Burke",
+        "category": "Responsibility"
+    },
+    {
+        "text": "The greatest way to live with honor in this world is to be what we pretend to be.",
+        "author": "Socrates",
+        "category": "Authenticity"
+    },
+    {
+        "text": "The only thing that you absolutely have to know is the location of the library.",
+        "author": "Albert Einstein",
+        "category": "Knowledge"
+    },
+    {
+        "text": "The greatest thing you’ll ever learn is just to love and be loved in return.",
+        "author": "Eden Ahbez",
+        "category": "Love"
+    },
+    {
+        "text": "The only way to make a man trustworthy is to trust him.",
+        "author": "Henry L. Stimson",
+        "category": "Trust"
+    },
+    {
+        "text": "The greatest wisdom is in simplicity. Love, respect, tolerance, sharing, gratitude, forgiveness.",
+        "author": "Unknown",
+        "category": "Wisdom"
+    },
+    {
+        "text": "The only thing we have to fear is fear itself.",
+        "author": "Franklin D. Roosevelt",
+        "category": "Courage"
+    },
+    {
+        "text": "The greatest virtue is to follow the will of heaven.",
+        "author": "Confucius",
+        "category": "Virtue"
+    },
+    {
+        "text": "The only thing that matters is that you are happy and that you make others happy.",
+        "author": "Unknown",
+        "category": "Happiness"
+    },
+    {
+        "text": "The greatest act of courage is to be and to own all of who you are—without apology, without excuses, without masks to cover the truth of who you are.",
+        "author": "Oprah Winfrey",
+        "category": "Courage"
+    },
+    {
+        "text": "The only way to find true happiness is to risk being completely cut open.",
+        "author": "Chuck Palahniuk",
+        "category": "Happiness"
+    },
+    {
+        "text": "The greatest pleasure in life is doing what people say you cannot do.",
+        "author": "Walter Bagehot",
+        "category": "Motivation"
+    },
+    {
+        "text": "The only thing that makes life worth living is the possibility of experiencing now and then a perfect moment.",
+        "author": "Osho",
+        "category": "Life"
+    },
+    {
+        "text": "The greatest gift you can give someone is your time, because when you give your time, you are giving a portion of your life that you will never get back.",
+        "author": "Unknown",
+        "category": "Kindness"
+    },
+    {
+        "text": "The only way to do great work is to love what you do.",
+        "author": "Steve Jobs",
+        "category": "Inspiration"
+    },
+    {
+        "text": "The greatest glory in living lies not in never falling, but in rising every time we fall.",
+        "author": "Nelson Mandela",
+        "category": "Inspiration"
+    },
+    {
+        "text": "The only thing necessary for the triumph of evil is for good men to do nothing.",
+        "author": "Edmund Burke",
+        "category": "Responsibility"
+    },
+    {
+        "text": "The greatest way to live with honor in this world is to be what we pretend to be.",
+        "author": "Socrates",
+        "category": "Authenticity"
+    },
+    {
+        "text": "The only thing that you absolutely have to know is the location of the library.",
+        "author": "Albert Einstein",
+        "category": "Knowledge"
+    },
+    {
+        "text": "The greatest thing you’ll ever learn is just to love and be loved in return.",
+        "author": "Eden Ahbez",
+        "category": "Love"
+    },
+    {
+        "text": "The only way to make a man trustworthy is to trust him.",
+        "author": "Henry L. Stimson",
+        "category": "Trust"
+    },
+    {
+        "text": "The greatest wisdom is in simplicity. Love, respect, tolerance, sharing, gratitude, forgiveness.",
+        "author": "Unknown",
+        "category": "Wisdom"
+    },
+    {
+        "text": "The only thing we have to fear is fear itself.",
+        "author": "Franklin D. Roosevelt",
+        "category": "Courage"
+    },
+    {
+        "text": "The greatest virtue is to follow the will of heaven.",
+        "author": "Confucius",
+        "category": "Virtue"
+    },
+    {
+        "text": "The only thing that matters is that you are happy and that you make others happy.",
+        "author": "Unknown",
+        "category": "Happiness"
+    },
+    {
+        "text": "The greatest act of courage is to be and to own all of who you are—without apology, without excuses, without masks to cover the truth of who you are.",
+        "author": "Oprah Winfrey",
+        "category": "Courage"
+    },
+    {
+        "text": "The only way to find true happiness is to risk being completely cut open.",
+        "author": "Chuck Palahniuk",
+        "category": "Happiness"
+    },
+    {
+        "text": "The greatest pleasure in life is doing what people say you cannot do.",
+        "author": "Walter Bagehot",
+        "category": "Motivation"
+    },
+    {
+        "text": "The only thing that makes life worth living is the possibility of experiencing now and then a perfect moment.",
+        "author": "Osho",
+        "category": "Life"
+    },
+    {
+        "text": "The greatest gift you can give someone is your time, because when you give your time, you are giving a portion of your life that you will never get back.",
+        "author": "Unknown",
+        "category": "Kindness"
+    },
+    {
+        "text": "The only way to do great work is to love what you do.",
+        "author": "Steve Jobs",
+        "category": "Inspiration"
+    },
+    {
+        "text": "The greatest glory in living lies not in never falling, but in rising every time we fall.",
+        "author": "Nelson Mandela",
+        "category": "Inspiration"
+    },
+    {
+        "text": "The only thing necessary for the triumph of evil is for good men to do nothing.",
+        "author": "Edmund Burke",
+        "category": "Responsibility"
+    },
+    {
+        "text": "The greatest way to live with honor in this world is to be what we pretend to be.",
+        "author": "Socrates",
+        "category": "Authenticity"
+    },
+    {
+        "text": "The only thing that you absolutely have to know is the location of the library.",
+        "author": "Albert Einstein",
+        "category": "Knowledge"
+    },
+    {
+        "text": "The greatest thing you’ll ever learn is just to love and be loved in return.",
+        "author": "Eden Ahbez",
+        "category": "Love"
+    },
+    {
+        "text": "The only way to make a man trustworthy is to trust him.",
+        "author": "Henry L. Stimson",
+        "category": "Trust"
+    },
+    {
+        "text": "The greatest wisdom is in simplicity. Love, respect, tolerance, sharing, gratitude, forgiveness.",
+        "author": "Unknown",
+        "category": "Wisdom"
+    },
+    {
+        "text": "The only thing we have to fear is fear itself.",
+        "author": "Franklin D. Roosevelt",
+        "category": "Courage"
+    },
+    {
+        "text": "The greatest virtue is to follow the will of heaven.",
+        "author": "Confucius",
+        "category": "Virtue"
+    },
+    {
+        "text": "The only thing that matters is that you are happy and that you make others happy.",
+        "author": "Unknown",
+        "category": "Happiness"
+    },
+    {
+        "text": "The greatest act of courage is to be and to own all of who you are—without apology, without excuses, without masks to cover the truth of who you are.",
+        "author": "Oprah Winfrey",
+        "category": "Courage"
+    },
+    {
+        "text": "The only way to find true happiness is to risk being completely cut open.",
+        "author": "Chuck Palahniuk",
+        "category": "Happiness"
+    },
+    {
+        "text": "The greatest pleasure in life is doing what people say you cannot do.",
+        "author": "Walter Bagehot",
+        "category": "Motivation"
+    },
+    {
+        "text": "The only thing that makes life worth living is the possibility of experiencing now and then a perfect moment.",
+        "author": "Osho",
+        "category": "Life"
+    },
+    {
+        "text": "The greatest gift you can give someone is your time, because when you give your time, you are giving a portion of your life that you will never get back.",
+        "author": "Unknown",
+        "category": "Kindness"
+    },
+    {
+        "text": "The only way to do great work is to love what you do.",
+        "author": "Steve Jobs",
+        "category": "Inspiration"
+    },
+    {
+        "text": "The greatest glory in living lies not in never falling, but in rising every time we fall.",
+        "author": "Nelson Mandela",
+        "category": "Inspiration"
+    },
+    {
+        "text": "The only thing necessary for the triumph of evil is for good men to do nothing.",
+        "author": "Edmund Burke",
+        "category": "Responsibility"
+    },
+    {
+        "text": "The greatest way to live with honor in this world is to be what we pretend to be.",
+        "author": "Socrates",
+        "category": "Authenticity"
+    },
+    {
+        "text": "The only thing that you absolutely have to know is the location of the library.",
+        "author": "Albert Einstein",
+        "category": "Knowledge"
+    },
+    {
+        "text": "The greatest thing you’ll ever learn is just to love and be loved in return.",
+        "author": "Eden Ahbez",
+        "category": "Love"
+    },
+    {
+        "text": "The only way to make a man trustworthy is to trust him.",
+        "author": "Henry L. Stimson",
+        "category": "Trust"
+    },
+    {
+        "text": "The greatest wisdom is in simplicity. Love, respect, tolerance, sharing, gratitude, forgiveness.",
+        "author": "Unknown",
+        "category": "Wisdom"
+    },
+    {
+        "text": "The only thing we have to fear is fear itself.",
+        "author": "Franklin D. Roosevelt",
+        "category": "Courage"
+    },
+    {
+        "text": "The greatest virtue is to follow the will of heaven.",
+        "author": "Confucius",
+        "category": "Virtue"
+    },
+    {
+        "text": "The only thing that matters is that you are happy and that you make others happy.",
+        "author": "Unknown",
+        "category": "Happiness"
+    },
+    {
+        "text": "The greatest act of courage is to be and to own all of who you are—without apology, without excuses, without masks to cover the truth of who you are.",
+        "author": "Oprah Winfrey",
+        "category": "Courage"
+    },
+    {
+        "text": "The only way to find true happiness is to risk being completely cut open.",
+        "author": "Chuck Palahniuk",
+        "category": "Happiness"
+    },
+    {
+        "text": "The greatest pleasure in life is doing what people say you cannot do.",
+        "author": "Walter Bagehot",
+        "category": "Motivation"
+    }
+   ]

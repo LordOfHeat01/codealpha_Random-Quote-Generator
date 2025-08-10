@@ -1,0 +1,4 @@
+// File: build.gradle (Project-level)
+
+// REMOVE buildscript and allprojects if you are using plugin DSL in settings.gradle
+// Leave this file empty or with only this if needed:
