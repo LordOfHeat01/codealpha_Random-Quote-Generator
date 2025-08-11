@@ -22,13 +22,12 @@ Database: SQLite / RoomDB
 
 UI/UX: Material Design with animations
 
-Notifications: Android AlarmManager & Notification APIs
-
 📸 Screenshots
-(Add screenshots of the app here — e.g., Home Screen, Categories, Favorites, etc.)
+<img width="590" height="1280" alt="image" src="https://github.com/user-attachments/assets/d87ab08e-d34b-42db-ae82-0bb73082a082" />
+
 
 🚀 Installation
-Download the latest APK from [DOWNLOAD] (https://drive.google.com/file/d/1oQIUcQ8AITOU9tnDTlBWn_gUU2Jofgcr/view?usp=drive_link).
+Download the latest APK from [DOWNLOAD](https://drive.google.com/file/d/1oQIUcQ8AITOU9tnDTlBWn_gUU2Jofgcr/view?usp=drive_link).
 
 Install it on your Android device (Allow "Install from Unknown Sources").
 
